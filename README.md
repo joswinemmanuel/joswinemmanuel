@@ -13,5 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-***THIS IS FUN,BOLD and ITALIC***
+**Enthusiastic Programmer**
+
+<p align="center">
+  <img src="C:\Users\joswi\Downloads\7-Types-of-Hackers.jpg" width="350" title="HACKER">
+  
+</p>
 
