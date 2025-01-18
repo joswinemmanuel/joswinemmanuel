@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joswinemmanuel&show_icons=true&locale=en" alt="joswinemmanuel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joswinemmanuel&" alt="joswinemmanuel" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=joswinemmanuel" alt="GitHub Streak" /></p>
