@@ -21,12 +21,13 @@ Data Engineer at **Infosys**, currently working with **Kraft Heinz** on building
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/c1311b06-e944-449b-bf3d-f876b5878313" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;
 </p>
 
-### Databases & Data Warehousing
+### Databases and Data Warehousing
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;&nbsp;
@@ -59,7 +60,7 @@ Data Engineer at **Infosys**, currently working with **Kraft Heinz** on building
 * Azure Data Factory
 * Azure Data Services
 
-### Tools & Technologies
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;&nbsp;
@@ -69,10 +70,6 @@ Data Engineer at **Infosys**, currently working with **Kraft Heinz** on building
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
-* Unix/Linux
-* CI/CD Fundamentals
-* Data Engineering Best Practices
-
 ---
 
 ## 📜 Certifications
@@ -80,6 +77,15 @@ Data Engineer at **Infosys**, currently working with **Kraft Heinz** on building
 * Databricks Certification
 * NPTEL – Programming, Data Structures and Algorithms Using Python
 * Additional certifications in Data Engineering and Software Development
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joswinemmanuel/)&nbsp;&nbsp;&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:joswinemmanuel2002@gmail.com)&nbsp;&nbsp;&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/joswinemmanuel)&nbsp;&nbsp;&nbsp;
+[![Portfolio](https://skillicons.dev/icons?i=htmx)](https://joswinemmanuel.vercel.app/)
 
 ---
 
@@ -93,15 +99,6 @@ Data Engineer at **Infosys**, currently working with **Kraft Heinz** on building
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joswinemmanuel&theme=tokyonight" />
 </p>
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joswinemmanuel/)&nbsp;&nbsp;&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:joswinemmanuel2002@gmail.com)&nbsp;&nbsp;&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/joswinemmanuel)&nbsp;&nbsp;&nbsp;
-[![Portfolio](https://skillicons.dev/icons?i=htmx)](https://joswinemmanuel.vercel.app/)
 
 ---
 
