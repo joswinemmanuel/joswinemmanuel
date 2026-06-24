@@ -1,42 +1,110 @@
-<h1 align="center">Hey there 👋, I'm Joswin Emmanuel</h1>
-<h3 align="center">I'm a Student, Undergraduate, Developer and Enthusiast</h3>
-<h3 align="center"><a href="https://joswinemmanuel.vercel.app/" target="_blank">Explore my Portfolio to know more about me</a></h3>
+# Hi, I'm Joswin Emmanuel 👋🏼
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joswinemmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="joswinemmanuel" /> </p>
+### Data Engineer | Python | Snowflake | Azure | Databricks
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joswinemmanuel" alt="joswinemmanuel" /></a> </p>
+Data Engineer at **Infosys**, currently working with **Kraft Heinz** on building scalable data solutions and modern data pipelines. Passionate about data engineering, cloud technologies and software development.
 
-- 🔭 I’m currently working on my **programming skills.**
+---
 
-- 👯 I’m looking to collaborate with **other developers.**
+## 🚀 About Me
 
-- 🌱 I’m currently studying **computer science engineering.**
+* 💼 Data Engineer at Infosys
+* 🏢 Currently working for Kraft Heinz
+* 🎓 B.Tech with Honors in Computer Science Engineering and Minor in VLSI and Embedded Systems
+* 🌱 Continuously learning modern data engineering and cloud technologies
+* 💡 Interested in Data Engineering, Big Data, Cloud Computing and Backend Development
+---
 
-- 💬 Ask me about **anything.**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **joswinemmanuel2002@gmail.com**
+### Languages
 
-- ⚡ Fun fact **I like music, reading and sports.**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joswin-emmanuel-752904228" target="blank"><img align="center" src="linkedin.png" alt="joswin-emmanuel-752904228" height="30" width="30" /></a>
-<a href="https://fb.com/joswin.emmanuel.3" target="blank"><img align="center" src="facebook.png" alt="joswin.emmanuel.3" height="30" width="30" /></a>
-  <a href="https://instagram.com/joswin_emmanuel" target="blank"><img align="center" src="instagram.png" alt="joswin_emmanuel" height="30" width="30" /></a>
-<a href="https://www.codechef.com/users/joswinemmanuel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="joswinemmanuel" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/joswinemmanuel" target="blank"><img align="center" src="HackerRank_logo.svg" alt="joswinemmanuel" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@joswinemmanuel2002" target="blank"><img align="center" src="hackerearth-svgrepo-com.svg" alt="@joswinemmanuel2002" height="30" width="40" /></a> 
-<a href="https://auth.geeksforgeeks.org/user/joswinemmanuel20021" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/116px-GeeksforGeeks.svg.png?20200909192408" alt="joswinemmanuel20021" height="30" width="40" /></a>  
-<a href="https://discord.gg/cXxSJXeftP" target="blank"><img align="center" src="Discord-Logo-Color.svg" alt="cXxSJXeftP" height="30" width="40" /></a>
+### Databases & Data Warehousing
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" rel="nofollow"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/snowflake" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
 
+* Snowflake
+* SQL
+
+### Data Engineering
+
+* Dagster
+* dbt
+* PySpark
+* Databricks
+* ETL / ELT Pipelines
+* Data Modeling
+* Data Warehousing
+* Data Lakes
+
+### Cloud & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+* Azure Data Factory
+* Azure Data Services
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pycharm" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+* Unix/Linux
+* CI/CD Fundamentals
+* Data Engineering Best Practices
+
+---
+
+## 📜 Certifications
+
+* Databricks Certification
+* NPTEL – Programming, Data Structures and Algorithms Using Python
+* Additional certifications in Data Engineering and Software Development
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joswinemmanuel&show_icons=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joswinemmanuel&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joswinemmanuel&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joswinemmanuel&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joswinemmanuel&theme=tokyonight" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joswinemmanuel/)&nbsp;&nbsp;&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:joswinemmanuel2002@gmail.com)&nbsp;&nbsp;&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/joswinemmanuel)&nbsp;&nbsp;&nbsp;
+[![Portfolio](https://skillicons.dev/icons?i=htmx)](https://joswinemmanuel.vercel.app/)
+
+---
+
+### 💭 Quote
+
+> Turning raw data into trusted business insights.
