@@ -21,24 +21,27 @@ Data Engineer at **Infosys**, currently working with **Kraft Heinz** on building
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;&nbsp;
-  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/c1311b06-e944-449b-bf3d-f876b5878313" />&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" alt="SQL" src="https://github.com/user-attachments/assets/c1311b06-e944-449b-bf3d-f876b5878313" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;
 </p>
 
-### Databases and Data Warehousing
-
+### Databases and Backend Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" alt="SQLite3" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/snowflake" width="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="48"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=flask" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
-* Snowflake
-* SQL
+### Data Engineering
+
+<p>
+  <img src="https://cdn.simpleicons.org/snowflake" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks" width="48"/>&nbsp;&nbsp;&nbsp;
+</p>
 
 ### Data Engineering
 
@@ -65,6 +68,7 @@ Data Engineer at **Infosys**, currently working with **Kraft Heinz** on building
 <p>
   <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" />&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" alt="Azure Devops" src="https://github.com/user-attachments/assets/07cc3a20-8695-4060-86e6-026c85855616" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=pycharm" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" />
